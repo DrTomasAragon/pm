@@ -12,3 +12,4 @@
 - [x] downloaded and installed MS OneDrive https://www.microsoft.com/en-us/microsoft-365/onedrive/download [2022-03-15]
 - [x] installed julia via homebrew [2022-03-15]
 - [x] upgraded to macOS Monterey 12.3 [2022-03-15]
+- [x] installed Zoom [2022-03-15]

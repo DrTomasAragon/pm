@@ -17,3 +17,4 @@
 - [x] installed Visual Studio
 - [x] installed Ankiweb App via homebrew [2022-03-26] 
 - [x] installed GIMP via homebrew [2022-03-26] 
+- [x] installed pdftk via homebrew [2022-03-26] 

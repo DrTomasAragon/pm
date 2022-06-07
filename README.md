@@ -18,3 +18,4 @@
 - [x] installed Ankiweb App via homebrew [2022-03-26] 
 - [x] installed GIMP via homebrew [2022-03-26] 
 - [x] installed pdftk via homebrew [2022-03-26] 
+- [x] install MacPorts via https://www.macports.org/install.php [2022-06-06]

@@ -19,3 +19,10 @@
 - [x] installed GIMP via homebrew [2022-03-26] 
 - [x] installed pdftk via homebrew [2022-03-26] 
 - [x] install MacPorts via https://www.macports.org/install.php [2022-06-06]
+- [x] MarPorts note: Some of the ports you installed have notes:
+  python310 has the following notes:
+    To make this the default Python or Python 3 (i.e., the version run by the
+    'python' or 'python3' commands), run one or both of:
+    
+        sudo port select --set python python310
+        sudo port select --set python3 python310
